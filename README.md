@@ -1,8 +1,10 @@
-# gradient_descent Logistic Regression 
+# radient_descent Logistic Regression 
 
-Airbnb is a web-based marketplace for people to list, discover, and book unique accommodations around the world. Airbnb users include hosts and travelers: hosts list and rent out their unused spaces, and travelers search for and book accommodations in more than 34,000 cities and 190 countries.
+l2^{2} regularized logistic regression is one of common regularized regressions. 
+, I use Gradient Descent to find the optimal coefficients. 
 
-The AirbnbViz team aims to provide more information and insights to guests of Airbnb in Seattle to help them have a deeper understanding of what factors influence the listing price most, which neighborhood has higher/lower listing price and which neighborhood has higher and lower guests' rating via our different interactive visualizations. On the other hand, As hosts of Airbnb, they will have more idaes that how other hosts priced around them relative to dimensions such as amenities and location and what is the average listing prices of different neighborhoods in Seattle.
+
+
 
 
 ## Data
