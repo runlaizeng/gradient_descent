@@ -5,7 +5,9 @@ l2^{2} regularized logistic regression is one of common regularized regressions.
 
 ![alt text](screenshots/1 "Description goes here")
 
+Gradient Descent is also called as Steepest Descent, it is fisrt order iterative optimization algorithm. It work to find local minimum of a function. The Alogrithm is described as follow: 
 
+![alt text](screenshots/1 "Description goes here")
 
 ## Data
 
@@ -28,5 +30,15 @@ l2^{2} regularized logistic regression is one of common regularized regressions.
 - scipy 
 - matplotlib 
 
-#### License Information:
-The MIT License is a permissive free software license originating at the Massachusetts Institute of Technology (MIT). As a permissive license, it puts only very limited restriction on reuse and has therefore an excellent license compatibility. For detailed description of the contents of license please refer to the file [License](https://github.com/wangbeiqi199159/analyze-of-seattle-airbnb-hosts/blob/master/LICENSE).
+#### Demo and Function : 
+
+There are three deomo files and one Function file: 
+
+demo_simulate.py allows a user to launch the method on a simple simulated dataset, visualize the training process, and print the performance. Simulated Data Already gernerated in demo file .
+
+demo_spam.py allows a user to launch the method on a spam data, visualize the training process, and print the performance. Spam Data path already included in demo file  .
+
+comparison.py allows a user to compare result of simulate data  with scikit-learn. Data source and information is included in the demo file.
+
+gradient_descent.py includes all the function used for gradient_descent Algorthmns.
+
