@@ -3,7 +3,7 @@
 l2^{2} regularized logistic regression is one of common regularized regressions. 
 , I use Gradient Descent to find the optimal coefficients. 
 
-![alt text](screenshots/1.png "Description goes here")
+![alt text](screenshots/1 "Description goes here")
 
 
 
