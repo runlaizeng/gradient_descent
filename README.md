@@ -1,6 +1,6 @@
 # Gradient Descent for Logistic Regression 
 
-l2^{2} regularized logistic regression is one of common regularized regressions. 
+l2 regularized logistic regression is one of common regularized regressions. 
 , I use Gradient Descent to find the optimal coefficients. 
 
 ![alt text]([https://imgbb.com/][img]https://image.ibb.co/bLvX0v/1.png)
