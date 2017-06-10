@@ -6,6 +6,7 @@ l2 regularized logistic regression is one of common regularized regressions.
 
 ![alt text](https://s7.postimg.org/e3kkfc6zf/Screen_Shot_2017-06-09_at_10.56.10_PM.png)
 Gradient Descent is also called as Steepest Descent, it is fisrt order iterative optimization algorithm. It work to find local minimum of a function. The Alogrithm is described as follow: 
+
 ![alt text](https://s23.postimg.org/5uzc8bauj/image.png)
 ![alt text](https://s10.postimg.org/lrdo0i3i1/Screen_Shot_2017-06-09_at_2.57.19_PM.png)
 
