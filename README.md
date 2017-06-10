@@ -3,7 +3,7 @@
 l2^{2} regularized logistic regression is one of common regularized regressions. 
 , I use Gradient Descent to find the optimal coefficients. 
 
-![alt text](https://ibb.co/dsW5Lv)
+![alt text]([https://imgbb.com/][img]https://image.ibb.co/bLvX0v/1.png[/img][/url])
 
 Gradient Descent is also called as Steepest Descent, it is fisrt order iterative optimization algorithm. It work to find local minimum of a function. The Alogrithm is described as follow: 
 
